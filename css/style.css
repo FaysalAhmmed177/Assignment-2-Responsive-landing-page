@@ -1,0 +1,58 @@
+/*Navigation Part*/
+.navigation .logo{
+    height: 40px;
+    width: 60%;
+}
+.categories 
+.shopping-icon{
+    height: 25px;
+    width: 25px;
+}
+/*About*/
+.about .person{
+    width: 100px;
+}
+.about button{
+    background-color: #81b214 !important;
+    border: 0;
+}
+.categories .product-card button{
+    background-color: #81b214;
+    border: 0;
+}
+h3,h1{
+    color: darkviolet;
+}
+
+h2{
+    color: rgb(240, 141, 21);
+}
+
+/*product card start here*/
+.categories .product-card{
+    border: 0px;
+    border-radius: 10px;
+}
+
+.categories .product-card-footer{
+    background-color: white;
+    border-top: 0;
+}
+.categories img{
+    width: 150px;
+    height: 300px;
+}
+/* Query-icon */
+.query-icon{
+    width: 70px;
+    height: 70px;
+}
+
+
+.last-part .bottom-big-image{
+    width: 600px;   
+}
+.last-part .footer-card{
+    border: 0;
+    border-radius: 10px;
+}
