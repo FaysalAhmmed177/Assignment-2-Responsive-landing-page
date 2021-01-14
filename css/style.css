@@ -9,8 +9,9 @@
     width: 25px;
 }
 /*About*/
-.about .person{
-    width: 100px;
+
+.myimg{
+    padding-left: 100px;
 }
 .about button{
     background-color: #81b214 !important;
@@ -27,7 +28,7 @@ h3,h1{
 h2{
     color: rgb(240, 141, 21);
 }
-p{
+.details p{
     color: white;
 }
 /*product card start here*/
